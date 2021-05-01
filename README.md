@@ -1,0 +1,1 @@
+Este programa faz soma dos múltiplos de 5 e o cubo da soma dos divisores de 50.
