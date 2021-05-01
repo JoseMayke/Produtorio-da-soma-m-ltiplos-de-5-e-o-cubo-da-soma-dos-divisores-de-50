@@ -14,4 +14,4 @@ somaDivisor50(x,y)
  | x < y = somaDivisor50(x+1,y)
  | otherwise = somaDivisor50(y,x)
 
-questao2(i,f) = somaMultiplo5(i,f) * (somaDivisor50(i,f) ^ 3)
+princinal(i,f) = somaMultiplo5(i,f) * (somaDivisor50(i,f) ^ 3)
