@@ -1,4 +1,4 @@
-module Main where
+module Main1 where
 
 somaMultiplo5(x,y)
  | x == y && mod x 5 == 0 = x
